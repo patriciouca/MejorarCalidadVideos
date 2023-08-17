@@ -8,7 +8,7 @@ Se instala con el siguiente comando:
 ```bash
 pip install opencv-python
 ```
-#### OpenCV
+#### TK
 Se instala con el siguiente comando:
 ```bash
 pip install tk
