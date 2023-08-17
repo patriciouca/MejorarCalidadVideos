@@ -1,7 +1,7 @@
 # Mejorar Calidad Videos
 Para ejecutar este programa hace falta tener instalado FFPMEG y Python en el ordenador
 
-##Librerias Necesarias
+## Librerias Necesarias
 
 #### OpenCV
 Se instala con el siguiente comando:
